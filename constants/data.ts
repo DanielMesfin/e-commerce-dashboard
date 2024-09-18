@@ -20,6 +20,7 @@ export const ProductsDummyData = [
     image: "https://ih1.redbubble.net/image.382749676.2902/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg",
     revenue: 5234
   },
+  
   {
     id: 4,
     name: "CSS Shirt",
